@@ -1,0 +1,99 @@
+{
+  "_comment": "Estimated USD per million tokens: [input, output]. Missing rates produce null cost.",
+  "openai:gpt-4o-mini": [
+    0.15,
+    0.6
+  ],
+  "openai:gpt-4o": [
+    2.5,
+    10.0
+  ],
+  "openai:gpt-4.1-mini": [
+    0.4,
+    1.6
+  ],
+  "openai:gpt-5.6-luna": [
+    0.2,
+    1.2
+  ],
+  "openai:gpt-5.4": [
+    2.5,
+    15.0
+  ],
+  "openai:gpt-5-mini": [
+    0.25,
+    2.0
+  ],
+  "openai:gpt-6-astra": [
+    10.0,
+    50.0
+  ],
+  "openai:gpt-5.6-sol": [
+    5.0,
+    30.0
+  ],
+  "openai:gpt-5.6-terra": [
+    2.0,
+    12.0
+  ],
+  "anthropic:claude-haiku-4-5": [
+    1.0,
+    5.0
+  ],
+  "anthropic:claude-sonnet-5": [
+    2.0,
+    10.0
+  ],
+  "anthropic:claude-opus-5": [
+    5.0,
+    25.0
+  ],
+  "anthropic:claude-fable-5-1": [
+    10.0,
+    50.0
+  ],
+  "fireworks:accounts/fireworks/models/glm-5p2": [
+    1.4,
+    4.4
+  ],
+  "fireworks:accounts/fireworks/models/glm-5p3": [
+    1.4,
+    4.4
+  ],
+  "fireworks:accounts/fireworks/models/deepseek-v4-pro-0813": [
+    1.32,
+    3.96
+  ],
+  "fireworks:accounts/fireworks/models/deepseek-v4-flash-0731": [
+    0.22,
+    0.66
+  ],
+  "groq:openai/gpt-oss-120b": [
+    0.15,
+    0.6
+  ],
+  "groq:openai/gpt-oss-20b": [
+    0.075,
+    0.3
+  ],
+  "groq:qwen/qwen3.6-27b": [
+    0.6,
+    3.0
+  ],
+  "groq:qwen/qwen3.8-27b": [
+    0.8,
+    4.0
+  ],
+  "cerebras:gpt-oss-120b": [
+    0.35,
+    0.75
+  ],
+  "cerebras:qwen-3.8-27b": [
+    0.99,
+    1.49
+  ],
+  "typesafe:jev-1.13.0": [
+    0.042,
+    0
+  ]
+}

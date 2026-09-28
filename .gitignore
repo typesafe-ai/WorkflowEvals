@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.DS_Store
+.ruff_cache/
+runs/
+outputs/
+dist/
+*.egg-info/
+evals/security_incidents/corpus/echolake_cache/
